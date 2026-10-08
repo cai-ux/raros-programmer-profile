@@ -23,11 +23,7 @@ export default function Home() {
           <div className="buttons"><a className="button primary" href="#projects">View Projects</a><a className="button secondary" href="#contact">Contact Me</a></div>
           <p className="tagline">Building Skills Today, Creating Solutions Tomorrow.</p>
         </div>
-        <div className="code-card">
-          <div className="window-top"><span>●</span><span>●</span><span>●</span></div>
-          <pre>{'const student = {\\n  name: "Rachelle Raros",\\n  field: "Information Technology",\\n  focus: "Learning & Building",\\n  goal: "Become a capable programmer"\\n};'}</pre>
-          <div className="sparkle">✦</div><div className="heart">♡</div>
-        </div>
+/div>
       </section>
 
       <section id="about" className="section">
