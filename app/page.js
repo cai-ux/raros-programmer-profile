@@ -87,7 +87,6 @@ export default function Home() {
           <div className="contact-list">
             <a href="mailto:rarosrachelle1106@gmail.com">✉️ rarosrachelle1106@gmail.com</a>
             <a href="tel:09358126709">📱 09358126709</a>
-            <a href="https://instagram.com/kixxc.oo" target="_blank" rel="noreferrer">📸 @kixxc.oo</a>
           </div>
         </div>
       </section>
